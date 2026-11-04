@@ -1,7 +1,5 @@
 print ("Hello")
-print ()
 
-fgdfg
 PFDSGPSDOPSDGOSDPGOSD
 GOGOGOGOOGOGOGOG
 
